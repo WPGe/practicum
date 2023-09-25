@@ -1,4 +1,4 @@
-package githubModule
+package practicum
 
 func Add(a, b int) int {
 	return a + b
